@@ -1,0 +1,20 @@
+{
+	"name" : "Practica 1 PWA",
+	"short_name" : "P1PWA",
+	"start_url" : "index.php",
+	"display":"standalone",
+	"scope": ".",
+	"description":"Esta es mi primer PWA",
+	"icons":[
+	  {
+	  "src":"images/icon-192x192.png",                     
+	  "sizes":"192x192",
+	  "type":"image/png"
+	  },
+	  {
+	  "src":"images/icon-512x512.png",
+	  "sizes":"512x512",
+	  "type":"image/png"
+	  }
+	]
+}
